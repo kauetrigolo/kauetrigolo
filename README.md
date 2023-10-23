@@ -21,16 +21,17 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: kauetrigolo.damaceno@gmail.com">
-      <img width="20" src="gmail.svg">
+      <img width="25" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/kau%C3%AA-trigolo-damaceno-411a11287/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/kaue.tgl/">
       <img width="25" src="instagram.png">
     </a>
 </div>
+
   
-![Snake animation](https://github.com/kauetrigolo/kauetrigolo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kauetrigolo/kauetrigolo/blob/output/github-contribution-grid-snake.svg)
 
 
