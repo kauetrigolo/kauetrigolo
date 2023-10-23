@@ -23,7 +23,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: kauetrigolo.damaceno@gmail.com">
-      <img width="25" src="gmail.svg">
+      <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/kau%C3%AA-trigolo-damaceno-411a11287/">
       <img width="25" src="linkedin.svg">
